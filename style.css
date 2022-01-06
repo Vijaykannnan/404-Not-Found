@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+
+}
+.main{
+    margin-bottom: 100px;
+}
+.error{
+    padding: 30px;
+    font-weight: 600;
+}
+.banner img{
+     width: 400px;
+     height: 500px;
+    
+}
+.main button{
+    padding: 20px; 
+    color: #fff;
+    background-color: rgb(29, 28, 28);
+    border: none;
+    margin: 0 30px;
+}
+.content h1{
+font-weight: 800;
+margin: 20px;
+font-size: 50px;
+}
+.content p{
+    line-height: 30px;
+    padding: 20px;
+}
+footer p{
+    color: gray;
+    width: 100%;
+
+   text-align: center;
+}
